@@ -4,8 +4,8 @@ def readme():
         README = file.read()
     return README
 setup(
-  name = 'Topsis_Yatharth_102103550',         # How you named your package folder (MyLib)
-  packages = ['Topsis_Yatharth_102103550'],   # Chose the same as "name"
+  name = 'Topsis_Chahat_102103160',         # How you named your package folder (MyLib)
+  packages = ['Topsis_Chahat_102103160'],   # Chose the same as "name"
   version = '1.0.0',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'A python package for Multiple Criteria Decision Making (MCDM) using Topsis',   # Give a short description about your library
@@ -13,8 +13,8 @@ setup(
   long_description_content_type="text/markdown",
   author = 'Yatharth Gautam',                   # Type in your name
   author_email = 'yatharthgautamcr7@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/yatharthgautam123/Topsis_Yatharth_102103550',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/yatharthgautam123/Topsis_Yatharth_102103550/archive/v1.0..0tar.gz',    # I explain this later on
+  url = 'https://github.com/yatharthgautam123/Topsis_Chahat_102103160',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/chahat0430/Topsis_Chahat_102103160/archive/v1.0..0tar.gz',    # I explain this later on
   keywords = ['TOPSIS', '102103550', 'Yatharth Gautam'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'pandas',
